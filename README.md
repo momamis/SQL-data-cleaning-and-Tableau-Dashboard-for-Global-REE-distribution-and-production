@@ -30,7 +30,7 @@ The data was taken from the 2025 mineral commodity summary released by the Unite
 - Renamed the columns `mines 23` and `mines 24` for better usability in SQL.
 - Converted string values to decimals for columns with numeric values.
 - Identified the top global producers of REEs and the countries with the most abundant extractable reserves.
-- 
+  
 ### Data Visualization Using Tableau
 - Created an interactive Tableau dashboard to present an overview of global REE distribution and production.
 - Key visualizations include the global distribution of rare earth reserves, production share by country, percentage change in production from 2023 to 2024 (latest change), and a comparison of the total reserves 
